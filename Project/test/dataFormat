@@ -1,0 +1,51 @@
+Student
+
+id, fullName, age, gender, cId1|cId2...
+
+
+
+
+Course
+
+cId, title, crediHour
+
+
+
+
+File
+    dir
+    ifstream, ofstream
+    read, write
+
+CourseFile
+    
+
+
+
+
+Student
+    Edit
+        Profile
+        Add Course
+        Drop Course
+        Back
+        Exit
+    *ViewCourses
+    *Back
+    *Exit
+Stuff
+    *View Students
+    *View Course
+    Add Student
+    Add Course
+    Edit Course
+    Edit Student
+    Search Student For Registered Course
+    Search Students
+    Search Course
+    Delete Student
+    Delete Course
+    *Back
+    *Exit
+Exit
+
